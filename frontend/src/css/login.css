@@ -1,0 +1,17 @@
+.outer {
+    min-height: 500px;
+    /* position:relative; */
+    background-image: url("../images/AddJency.png");
+    background-size: cover;
+}
+.Model {
+    position: absolute; 
+    left: 50%;
+    /* transform: translate(-50%, -50%); */
+    opacity: 0.7;
+    width: 30%;
+
+    /* min-height:100%; */
+    /* position:relative; */
+    }
+
